@@ -1,0 +1,5 @@
+operations                                                                    description
+Article(title,author,publishDate,url,source,content)                 a new article with metadata and its content
+a.display()                                                          display information in an Article instance a
+len(a)                                                               compute content length stored in an Article instance a
+str(a)                                                               concatenate all inforamtion stored in an Article instance a and return it as a string
